@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales Analysis Dashboard – SQL + Power BI
+# 📈 E-commerce Dashboard with Power BI
 
 ![Power BI Dashboard Banner] <img width="610" alt="E-COMMERCE DASHBOARD" src="https://github.com/user-attachments/assets/b532fc6f-a185-42e8-a874-9831593e43de" />
 

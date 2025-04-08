@@ -31,15 +31,6 @@ Size: 128,974 rows
 - What’s the average order value and monthly trends?
 -What size and courier status are most frequent?
 
-# 📈 Power BI Dashboard Highlights
--  Metric	              Visualization Type
-- Monthly Sales Trends   	Line Chart
-- Top 5 Categories      	Bar Chart
-- Regional Sales (States) Treemap
-- Customer City Insights	Bar Chart
-- Order Status Breakdown	Donut Chart
-- Most Selling Sizes	    Bar Chart
-
 
 # 🖼️ Dashboard Screenshot: 
 <img width="610" alt="E-COMMERCE DASHBOARD" src="https://github.com/user-attachments/assets/b532fc6f-a185-42e8-a874-9831593e43de" />

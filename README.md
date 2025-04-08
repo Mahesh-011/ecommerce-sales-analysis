@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analysis Dashboard
+# 🛒 E-Commerce Sales Analysis.
 
 # 📊 Overview
 This project focuses on analyzing an E-Commerce dataset to uncover key business insights such as revenue trends, best-selling products, regional performance, customer preferences, and more.

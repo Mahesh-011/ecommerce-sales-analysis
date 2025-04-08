@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Sales Analysis Dashboard
 
-## 📊 Overview
+# 📊 Overview
 This project focuses on analyzing an E-Commerce dataset to uncover key business insights such as revenue trends, best-selling products, regional performance, customer preferences, and more.
 
 I used SQL for data cleaning and analysis, and Power BI for interactive dashboard creation to help stakeholders make data-driven decisions.

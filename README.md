@@ -19,17 +19,17 @@ Source: Kaggle
 Size: 128,974 rows
 
 # 🔧 Preprocessing Done:
-Removed unnecessary columns
-Standardized date formats
-Renamed ambiguous columns
-Converted date to proper DATE format in MySQL
+-Removed unnecessary columns
+-Standardized date formats
+-Renamed ambiguous columns
+-Converted date to proper DATE format in MySQL
 
 # 🔍 Key Business Questions Answered
-What is the total revenue and number of orders?
-What are the top-performing and underperforming product categories?
-Which cities and states have the highest sales?
-What’s the average order value and monthly trends?
-What size and courier status are most frequent?
+-What is the total revenue and number of orders?
+-What are the top-performing and underperforming product categories?
+-Which cities and states have the highest sales?
+-What’s the average order value and monthly trends?
+-What size and courier status are most frequent?
 
 # 📈 Power BI Dashboard Highlights
 Metric	              Visualization Type
@@ -42,7 +42,7 @@ Most Selling Sizes	    Bar Chart
 
 
 # 🖼️ Dashboard Screenshot: 
-    <img width="610" alt="E-COMMERCE DASHBOARD" src="https://github.com/user-attachments/assets/b532fc6f-a185-42e8-a874-9831593e43de" />
+<img width="610" alt="E-COMMERCE DASHBOARD" src="https://github.com/user-attachments/assets/b532fc6f-a185-42e8-a874-9831593e43de" />
 
 
 # 📌 Insights

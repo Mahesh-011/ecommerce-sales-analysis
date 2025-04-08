@@ -12,7 +12,7 @@ I used SQL for data cleaning and analysis, and Power BI for interactive dashboar
 - Excel/CSV – Dataset format
 
 # 📁 Dataset
-Dataset Name: 
+Dataset : https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 
 Source: Kaggle
 

@@ -44,6 +44,8 @@ Size: 128,974 rows
 
 
 # 🙋‍♂️ About Me
-Mahesh – Aspiring Data Analyst
-🔗 GitHub • LinkedIn • 📧 godalamahesh1@gmail.com
+- Mahesh – Aspiring Data Analyst
+- 🔗 GitHub
+- LinkedIn
+- 📧 godalamahesh1@gmail.com
 

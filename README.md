@@ -41,7 +41,8 @@ Order Status Breakdown	Donut Chart
 Most Selling Sizes	    Bar Chart
 
 
-# 🖼️ Dashboard Screenshot: <img width="610" alt="E-COMMERCE DASHBOARD" src="https://github.com/user-attachments/assets/b532fc6f-a185-42e8-a874-9831593e43de" />
+# 🖼️ Dashboard Screenshot: 
+    <img width="610" alt="E-COMMERCE DASHBOARD" src="https://github.com/user-attachments/assets/b532fc6f-a185-42e8-a874-9831593e43de" />
 
 
 # 📌 Insights

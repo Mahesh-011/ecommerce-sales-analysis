@@ -2,15 +2,12 @@
 
 ### 🧭 A data-driven exploration of sales trends, discount strategies, product performance, and customer behavior across global regions.
 
----
 
 ## 📝 Project Overview
 
 This project focuses on building a **data model and interactive dashboard** to uncover business-critical insights from a large e-commerce dataset. It combines the power of **MySQL for data transformation** with **Power BI for intuitive visualization**, simulating a real-world retail analytics scenario.
 
 > Designed for executives, business analysts, and stakeholders to monitor KPIs, optimize product and pricing strategies, and understand regional performance trends.
-
----
 
 ## 🛠️ Tools & Technologies
 

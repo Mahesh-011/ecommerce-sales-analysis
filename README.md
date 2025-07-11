@@ -15,11 +15,11 @@ Designed for executives, business analysts, and stakeholders to monitor KPIs, op
 
 # 📁 Dataset Summary
 - Records: ~57,000 transactions
-- Time Period: Full year (2022)
+- Time Period: Full year (2022,2023)
 - Attributes:
--  Transaction Date
-- Product Category
-- Name Units Sold, Unit Price, Revenue Region, Payment Method Customer Demographics (Age, Gender, Membership) Discount %
+~ Transaction Date
+~ Product Category
+~ Name Units Sold, Unit Price, Revenue Region, Payment Method Customer Demographics (Age, Gender, Membership) Discount %
 
 # 📊 Key Business 
 

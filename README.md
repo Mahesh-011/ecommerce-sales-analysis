@@ -77,7 +77,7 @@ This project focuses on building a **data model and interactive dashboard** to u
 
 
 📬 Contact
-Mahesh Godala
-💼 Aspiring Data Analyst | SQL • Power BI • Python
-🔗 LinkedIn[#https://www.linkedin.com/in/maheshgodala/]
-📧 mahesh@example.com
+- Mahesh Godala
+- 💼 Aspiring Data Analyst | SQL • Power BI • Python
+- 🔗 [LinkedIn](#https://www.linkedin.com/in/maheshgodala/)
+- 📧 godalamahesh1@gmail.com

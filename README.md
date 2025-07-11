@@ -1,6 +1,6 @@
 # 📦 E-Commerce Sales Analysis Dashboard
 
-# 🧭 A data-driven exploration of sales trends, discount strategies, product performance, and customer behavior across global regions.
+## 🧭 A data-driven exploration of sales trends, discount strategies, product performance, and customer behavior across global regions.
 This project focuses on building a data model and interactive dashboard to uncover business-critical insights from a large e-commerce dataset. It combines the power of MySQL for data transformation with Power BI for intuitive visualization, simulating a real-world retail analytics scenario.
 
 Designed for executives, business analysts, and stakeholders to monitor KPIs, optimize product and pricing strategies, and understand regional performance trends.
@@ -18,11 +18,8 @@ Designed for executives, business analysts, and stakeholders to monitor KPIs, op
 - Time Period: Full year (2022)
 - Attributes:
 -  Transaction Date
-Product Category & Name
-Units Sold, Unit Price, Revenue
-Region, Payment Method
-Customer Demographics (Age, Gender, Membership)
-Discount %
+- Product Category
+- Name Units Sold, Unit Price, Revenue Region, Payment Method Customer Demographics (Age, Gender, Membership) Discount %
 
 # 📊 Key Business 
 

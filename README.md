@@ -1,15 +1,33 @@
-# 🛒 E-Commerce Sales Analysis.
+# 📦 E-Commerce Sales Analysis Dashboard
 
-# 📊 Overview
-This project focuses on analyzing an E-Commerce dataset to uncover key business insights such as revenue trends, best-selling products, regional performance, customer preferences, and more.
+# 🧭 A data-driven exploration of sales trends, discount strategies, product performance, and customer behavior across global regions.
+This project focuses on building a data model and interactive dashboard to uncover business-critical insights from a large e-commerce dataset. It combines the power of MySQL for data transformation with Power BI for intuitive visualization, simulating a real-world retail analytics scenario.
 
-I used SQL for data cleaning and analysis, and Power BI for interactive dashboard creation to help stakeholders make data-driven decisions.
+Designed for executives, business analysts, and stakeholders to monitor KPIs, optimize product and pricing strategies, and understand regional performance trends.
+
 
 # 🛠️ Tools & Technologies
-- MySQL – Data cleaning and analysis
-- Power BI – Dashboard creation
-- SQL – Querying and transformation
-- Excel/CSV – Dataset format
+| Tool          | Purpose                                        |
+| ------------- | ---------------------------------------------- |
+| **MySQL**     | Data cleaning, modeling, and KPI view creation |
+| **Power BI**  | Dashboard creation & data visualization        |
+| **Excel/CSV** | Source data import                             |
+
+# 📁 Dataset Summary
+- Records: ~57,000 transactions
+- Time Period: Full year (2022)
+- Attributes:
+-  Transaction Date
+Product Category & Name
+Units Sold, Unit Price, Revenue
+Region, Payment Method
+Customer Demographics (Age, Gender, Membership)
+Discount %
+
+# 📊 Key Business 
+
+
+
 
 # 📁 Dataset
 Dataset : https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
